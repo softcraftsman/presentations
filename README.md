@@ -3,12 +3,19 @@
 What's new in ADLS from Ignite 2019
 
 ## Data
-* [Azure Data Catalog](https://microsoft-my.sharepoint.com/:p:/r/personal/jobrown4_microsoft_com/_layouts/15/Doc.aspx?sourcedoc=%7B6CB93AC1-AB93-4542-B079-5BDBB48ED768%7D&file=MS_Azure%20Data%20Catalog%20Gen2.pptx&action=edit&mobileredirect=true) - (11/2019)  
+* [Azure Data Catalog](https://microsoft-my.sharepoint.com/:p:/r/personal/jobrown4_microsoft_com/_layouts/15/Doc.aspx?sourcedoc=%7B6CB93AC1-AB93-4542-B079-5BDBB48ED768%7D&file=MS_Azure%20Data%20Catalog%20Gen2.pptx&action=edit&mobileredirect=true)  
 ADC Generation 2 with Data Lineage, Apache Atlas,  Discovery, Classification, Search, Lineage, Business Glossary
 
-* [Azure Data Factory](https://microsoft.sharepoint.com/:p:/r/sites/presentations/_layouts/15/Doc.aspx?sourcedoc=%7BFFEE6071-E8D2-49DA-9F41-7890C824AA17%7D&file=BRK3046.pptx&action=edit&mobileredirect=true&DefaultItemOpen=1) - (11/2019)  
+* [Azure Data Factory](https://microsoft.sharepoint.com/:p:/r/sites/presentations/_layouts/15/Doc.aspx?sourcedoc=%7BFFEE6071-E8D2-49DA-9F41-7890C824AA17%7D&file=BRK3046.pptx&action=edit&mobileredirect=true&DefaultItemOpen=1)    
 Azure Data Factory at Petabyte scale.
 
 * [Azure SQL Database](https://microsoft-my.sharepoint.com/:p:/p/jobrown4/EZsJqoQKX7lOsLFo5MwIXi4BlthrdiaoTvajqIu2zDm6sQ?e=gdJGtU)
-Modernize in the cloud with Azure SQL Database
+Modernize in the cloud with Azure SQL Databaseafd asldf asdjf
+as d
+fjasd
+dfj 
+asdjflkasd jflajsd f
+as d
+fjsd
+f
 
