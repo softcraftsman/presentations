@@ -10,7 +10,7 @@ ADC Generation 2 with Data Lineage, Apache Atlas,  Discovery, Classification, Se
 Azure Data Factory at Petabyte scale.
 
 * [Azure SQL Database](https://microsoft-my.sharepoint.com/:p:/p/jobrown4/EZsJqoQKX7lOsLFo5MwIXi4BlthrdiaoTvajqIu2zDm6sQ?e=gdJGtU)  
-Modernize in the cloud with Azure SQL Databaseafd asldf asdjf
+Modernize in the cloud with Azure SQL Database
 
 ## Networking
 * [Networking Overview](https://microsoft-my.sharepoint.com/:p:/p/jobrown4/EUAGZHvL-EdHolz9UgtyvGkBIdWGlhL09tE-8JyS-TPevQ?e=djJBSB)  
