@@ -9,10 +9,13 @@ ADC Generation 2 with Data Lineage, Apache Atlas,  Discovery, Classification, Se
 * [Azure Data Factory](https://microsoft.sharepoint.com/:p:/r/sites/presentations/_layouts/15/Doc.aspx?sourcedoc=%7BFFEE6071-E8D2-49DA-9F41-7890C824AA17%7D&file=BRK3046.pptx&action=edit&mobileredirect=true&DefaultItemOpen=1)    
 Azure Data Factory at Petabyte scale.
 
-* [Azure SQL Database](https://microsoft-my.sharepoint.com/:p:/p/jobrown4/EZsJqoQKX7lOsLFo5MwIXi4BlthrdiaoTvajqIu2zDm6sQ?e=gdJGtU)
+* [Azure SQL Database](https://microsoft-my.sharepoint.com/:p:/p/jobrown4/EZsJqoQKX7lOsLFo5MwIXi4BlthrdiaoTvajqIu2zDm6sQ?e=gdJGtU)  
 Modernize in the cloud with Azure SQL Databaseafd asldf asdjf
 
 ## Networking
-* [Networking Overview](https://microsoft-my.sharepoint.com/:p:/p/jobrown4/EUAGZHvL-EdHolz9UgtyvGkBIdWGlhL09tE-8JyS-TPevQ?e=djJBSB)
+* [Networking Overview](https://microsoft-my.sharepoint.com/:p:/p/jobrown4/EUAGZHvL-EdHolz9UgtyvGkBIdWGlhL09tE-8JyS-TPevQ?e=djJBSB)  
+Basic networking overview
 
-* [New in Networking](https://microsoft.sharepoint.com/:p:/r/sites/presentations/_layouts/15/Doc.aspx?sourcedoc=%7B39E69EC2-E2CB-40DC-B070-E13F039856BB%7D&file=BRK2143.pptx&action=edit&mobileredirect=true&DefaultItemOpen=1)
+* [New in Networking](https://microsoft.sharepoint.com/:p:/r/sites/presentations/_layouts/15/Doc.aspx?sourcedoc=%7B39E69EC2-E2CB-40DC-B070-E13F039856BB%7D&file=BRK2143.pptx&action=edit&mobileredirect=true&DefaultItemOpen=1)  
+Latest news from Ignite 2019
+
